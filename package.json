@@ -1,0 +1,22 @@
+{
+  "name": "raygex",
+  "version": "1.0.0",
+  "description": "The package that gives you access to all comomon Regex expressions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesMogashoa/RayGex.git"
+  },
+  "keywords": [
+    "regex"
+  ],
+  "author": "Johannes Mogashoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohannesMogashoa/RayGex/issues"
+  },
+  "homepage": "https://github.com/JohannesMogashoa/RayGex#readme"
+}
