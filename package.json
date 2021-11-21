@@ -1,7 +1,7 @@
 {
   "name": "raygex",
-  "version": "1.0.0",
-  "description": "The package that gives you access to all comomon Regex expressions",
+  "version": "1.0.1",
+  "description": "The package that gives you access to all common Regex expressions for certain validations.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
